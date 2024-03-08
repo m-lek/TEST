@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T09:27:35.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ynoQ5pyBXTsygwk8iWQX" version="24.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-08T09:32:24.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0EAVpb_O6HwxYGu8yd_0" version="24.0.2" type="github" pages="8">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="1590" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -592,7 +592,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9kIGytSrDfYfYABnchhy-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Hệ thống bán sách trực tuyến&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="9kIGytSrDfYfYABnchhy-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí mua hàng&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="80.5" y="390" width="666" height="420" as="geometry" />
         </mxCell>
         <mxCell id="9kIGytSrDfYfYABnchhy-6" value="Quản lí mua hàng của bản thân" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
