@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T07:20:26.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vX2WZkczH8S1yKwo7qQ5" version="24.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-09T07:28:50.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PH94fk39KMcWH2RAkzOc" version="24.0.2" type="github" pages="10">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="2343" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
           <mxGeometry x="417" y="335" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-5" value="Xác nhận việc hủy sách" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="424" y="585" width="120" height="70" as="geometry" />
+          <mxGeometry x="427" y="585" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-6" value="Xem quá trình giao hàng của đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="277" y="585" width="140" height="70" as="geometry" />
@@ -463,7 +463,7 @@
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-7" value="Xác nhận việc thanh toán trước của khách hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="585" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jvfzSwQXrmkZsnoeaDwf-8" value="Thống doanh số" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jvfzSwQXrmkZsnoeaDwf-8" value="Thống kê doanh số" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="417" y="495" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-9" value="Xem chi tiết đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -544,7 +544,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="poXmpLePitStqW_hbYCY" name="Page-7">
-    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -621,7 +621,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nA5U1Aver3OzmacmsP-t" name="Page-8">
-    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -722,7 +722,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q48AvVlArXwJwK1sLHfO" name="Page-10">
-    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
