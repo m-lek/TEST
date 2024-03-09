@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T08:20:27.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8QR-t4Iih6sc0qXAS_xu" version="24.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-09T08:21:13.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MaY36gYGMBCdxYLcPRCA" version="24.0.2" type="github" pages="10">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="1122" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,15 +262,6 @@
             <mxPoint x="800" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ijZfk7yYYPpKFTfnBWjU-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="250" y="90" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ijZfk7yYYPpKFTfnBWjU-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="Z1TTJWBlDeIg8dNZD0U3-3" target="ijZfk7yYYPpKFTfnBWjU-1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="540" y="250" as="sourcePoint" />
-            <mxPoint x="700" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EpYbXIrP79f_heJija39-1" value="ADMIN" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="75" y="280" width="30" height="60" as="geometry" />
         </mxCell>
@@ -284,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BJi0dOUraSn688Yki9ww" name="Page-4">
-    <mxGraphModel dx="1406" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,15 +341,6 @@
             <mxPoint x="1185" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RkQFvjIsD3jGudiklDJd-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="170" y="240" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RkQFvjIsD3jGudiklDJd-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="kupCzS3My-6PYr_9Wxm2-15" target="RkQFvjIsD3jGudiklDJd-1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="120" y="330" as="sourcePoint" />
-            <mxPoint x="280" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="R3z9S4FRo9-Uq1dqK_ZA-1" value="Tìm kiếm sách" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="250" width="140" height="70" as="geometry" />
         </mxCell>
@@ -372,7 +354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9v_X5ptGF9QI0y2-gBzS" name="Page-5">
-    <mxGraphModel dx="1406" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6tT5W5dWCCwECCKHmrsS" name="Page-6">
-    <mxGraphModel dx="1406" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,20 +537,11 @@
             <mxPoint x="560" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eH66doUXsCN-8KtywrXI-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="120" y="255" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eH66doUXsCN-8KtywrXI-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="jvfzSwQXrmkZsnoeaDwf-3" target="eH66doUXsCN-8KtywrXI-1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="270" y="420" as="sourcePoint" />
-            <mxPoint x="430" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="poXmpLePitStqW_hbYCY" name="Page-7">
-    <mxGraphModel dx="1406" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -632,20 +605,11 @@
             <mxPoint x="720" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mpPJqd94Z8uN9G9rtZsn-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="170" y="310" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="mpPJqd94Z8uN9G9rtZsn-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="MzMJLrthSCUsjlWy0M1b-2" target="mpPJqd94Z8uN9G9rtZsn-1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="450" as="sourcePoint" />
-            <mxPoint x="490" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="nA5U1Aver3OzmacmsP-t" name="Page-8">
-    <mxGraphModel dx="1406" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -724,15 +688,6 @@
             <mxPoint x="490" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i0V8wGUV2O8bFq8Jhp6D-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="130" y="480" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="i0V8wGUV2O8bFq8Jhp6D-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="9kIGytSrDfYfYABnchhy-6" target="i0V8wGUV2O8bFq8Jhp6D-1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="620" as="sourcePoint" />
-            <mxPoint x="490" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9SbBcdNOiTA0vSYM9g8g-1" value="Đặt mua" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="140" height="70" as="geometry" />
         </mxCell>
@@ -746,7 +701,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q48AvVlArXwJwK1sLHfO" name="Page-10">
-    <mxGraphModel dx="1406" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -781,15 +736,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="305" y="463" as="sourcePoint" />
             <mxPoint x="395" y="427" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U5gLIp34sG-_LmHKX7uT-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="U5gLIp34sG-_LmHKX7uT-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" source="N0AZ_VgTEwWWoJX6DHtR-1" target="U5gLIp34sG-_LmHKX7uT-1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="450" as="sourcePoint" />
-            <mxPoint x="490" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
