@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T14:48:20.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="C7DOv78C6udoL5KgPPsX" version="24.0.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-03-11T14:53:50.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="sTPJ9Ffrl9qyUbwNaLEI" version="24.0.4" type="github" pages="11">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
-    <mxGraphModel dx="793" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,6 +175,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="350" y="280" as="sourcePoint" />
             <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_8DH8jcCK4Q6BwGf_q8X-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JvKZOloK4EmOi9SF0FHK-65">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="446" y="741" as="sourcePoint" />
+            <mxPoint x="627" y="488" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="730" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
@@ -797,7 +806,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RpZrEgjykwpa7-M2goEz" name="UseCase Tổng quát">
-    <mxGraphModel dx="127" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="45" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
