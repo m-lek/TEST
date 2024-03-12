@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T10:43:36.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="VVB2xc9nC3Eb1O2nJU6t" version="24.0.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-03-12T10:45:32.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="9CGNfZphIMRVpA-qotQK" version="24.0.5" type="github" pages="11">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="686" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -643,12 +643,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6tT5W5dWCCwECCKHmrsS" name="PR Quản lý đơn hàng">
-    <mxGraphModel dx="1789" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2115" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí đơn hàng&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="90" y="170" width="730" height="760" as="geometry" />
+          <mxGeometry x="90" y="170" width="730" height="790" as="geometry" />
         </mxCell>
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-2" value="NVQL" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="518" width="30" height="60" as="geometry" />
@@ -674,14 +674,14 @@
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-10" value="Tra cứu đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="417" y="255" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jvfzSwQXrmkZsnoeaDwf-11" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="jvfzSwQXrmkZsnoeaDwf-3" target="jvfzSwQXrmkZsnoeaDwf-4" edge="1">
+        <mxCell id="jvfzSwQXrmkZsnoeaDwf-11" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jvfzSwQXrmkZsnoeaDwf-3" target="jvfzSwQXrmkZsnoeaDwf-4" edge="1">
           <mxGeometry x="0.0139" width="160" relative="1" as="geometry">
             <mxPoint x="480" y="175" as="sourcePoint" />
             <mxPoint x="600" y="330" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jvfzSwQXrmkZsnoeaDwf-12" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="jvfzSwQXrmkZsnoeaDwf-3" target="jvfzSwQXrmkZsnoeaDwf-10" edge="1">
+        <mxCell id="jvfzSwQXrmkZsnoeaDwf-12" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jvfzSwQXrmkZsnoeaDwf-3" target="jvfzSwQXrmkZsnoeaDwf-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="500" y="425" as="sourcePoint" />
             <mxPoint x="450" y="470" as="targetPoint" />
@@ -771,6 +771,16 @@
         </mxCell>
         <mxCell id="Ne7NOu3xFuROIEihv5Rz-2" value="Xác nhận hủy&amp;nbsp;&lt;div&gt;đơn hàng&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="513" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ne7NOu3xFuROIEihv5Rz-3" value="Hủy đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417" y="860" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ne7NOu3xFuROIEihv5Rz-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jvfzSwQXrmkZsnoeaDwf-3" target="Ne7NOu3xFuROIEihv5Rz-3">
+          <mxGeometry x="0.0049" y="-17" width="160" relative="1" as="geometry">
+            <mxPoint x="228" y="590" as="sourcePoint" />
+            <mxPoint x="427" y="815" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
