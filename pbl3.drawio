@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:29:11.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="S2kTk9RMTDqrL_seL_YV" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:30:12.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="p2l-ctgNaKyW5zS-3iSf" version="24.0.5" type="github" pages="9">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="1390" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="JvKZOloK4EmOi9SF0FHK-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Hệ thống bán sách trực tuyến&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;spacingTop=-25;" parent="1" vertex="1">
           <mxGeometry x="250" y="200" width="452" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="JvKZOloK4EmOi9SF0FHK-2" value="KH" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="JvKZOloK4EmOi9SF0FHK-2" value="Khách hàng" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="170" y="346" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JvKZOloK4EmOi9SF0FHK-5" value="Quản lí tài khoản" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
             <mxPoint x="382" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JvKZOloK4EmOi9SF0FHK-25" value="NVQL" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="JvKZOloK4EmOi9SF0FHK-25" value="Nhân viên quản lý" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="170" y="565" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JvKZOloK4EmOi9SF0FHK-28" value="Quản lí sách" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
             <mxPoint x="1027" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JvKZOloK4EmOi9SF0FHK-76" value="ADMIN" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="JvKZOloK4EmOi9SF0FHK-76" value="Quản trị viên" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="170" y="464" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQnbWENPOJhFLqvuRIrK-1" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JvKZOloK4EmOi9SF0FHK-76" target="JvKZOloK4EmOi9SF0FHK-5" edge="1">
