@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:41:35.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="MxbhgoEHqk-JuDilY91y" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:42:25.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="b4trWEPC8sChDnLZN8ry" version="24.0.5" type="github" pages="9">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="1711" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -450,14 +450,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BJi0dOUraSn688Yki9ww" name="4. PR Quản lý sách">
-    <mxGraphModel dx="517" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kupCzS3My-6PYr_9Wxm2-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí sách&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;horizontal=1;spacing=-18;" parent="1" vertex="1">
           <mxGeometry x="120" y="70" width="630" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="kupCzS3My-6PYr_9Wxm2-14" value="NVQL" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="kupCzS3My-6PYr_9Wxm2-14" value="Nhân viên&lt;div&gt;quản lý&lt;/div&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="60" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kupCzS3My-6PYr_9Wxm2-16" value="Thống kê tổng số lượt mua sách theo từng quyển sách" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -471,9 +471,6 @@
         </mxCell>
         <mxCell id="kupCzS3My-6PYr_9Wxm2-20" value="Thống kê sách" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="351" y="375" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kupCzS3My-6PYr_9Wxm2-21" value="Cập nhật thông tin sách" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="507" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kupCzS3My-6PYr_9Wxm2-25" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="kupCzS3My-6PYr_9Wxm2-16" target="kupCzS3My-6PYr_9Wxm2-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -520,10 +517,10 @@
             <mxPoint x="490" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v0o0xGq8nBqNKK5GDADz-5" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kupCzS3My-6PYr_9Wxm2-14" target="kupCzS3My-6PYr_9Wxm2-21" edge="1">
+        <mxCell id="v0o0xGq8nBqNKK5GDADz-5" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kupCzS3My-6PYr_9Wxm2-14" target="11Fpc8tJoAu_Dm9HQMyJ-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="330" as="sourcePoint" />
-            <mxPoint x="490" y="330" as="targetPoint" />
+            <mxPoint x="185.97883329859974" y="510.7427539368284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v0o0xGq8nBqNKK5GDADz-6" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kupCzS3My-6PYr_9Wxm2-14" target="kupCzS3My-6PYr_9Wxm2-19" edge="1">
@@ -549,6 +546,9 @@
             <mxPoint x="515" y="295" as="sourcePoint" />
             <mxPoint x="580" y="295" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="11Fpc8tJoAu_Dm9HQMyJ-3" value="Cập nhật thông tin sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="502" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
