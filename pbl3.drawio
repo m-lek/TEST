@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:34:22.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="9GlW7SCO5D6-W6MZiEyU" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:36:02.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="AdlT2cyBfTmyIzdnS0na" version="24.0.5" type="github" pages="9">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="1711" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,11 +407,11 @@
       <root>
         <mxCell id="kKbpVROnD0z5z-v4G7TG-0" />
         <mxCell id="kKbpVROnD0z5z-v4G7TG-1" parent="kKbpVROnD0z5z-v4G7TG-0" />
-        <mxCell id="kKbpVROnD0z5z-v4G7TG-2" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí tài khoản NVQL&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;spacingTop=-20;" parent="kKbpVROnD0z5z-v4G7TG-1" vertex="1">
-          <mxGeometry x="150" y="60" width="440" height="430" as="geometry" />
+        <mxCell id="kKbpVROnD0z5z-v4G7TG-2" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí tài khoản nhân viên quản lý&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;spacingTop=-20;" parent="kKbpVROnD0z5z-v4G7TG-1" vertex="1">
+          <mxGeometry x="150" y="30" width="440" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="kKbpVROnD0z5z-v4G7TG-4" value="ADMIN" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="kKbpVROnD0z5z-v4G7TG-1" vertex="1">
-          <mxGeometry x="100" y="145" width="30" height="60" as="geometry" />
+        <mxCell id="kKbpVROnD0z5z-v4G7TG-4" value="Quản trị viên" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="kKbpVROnD0z5z-v4G7TG-1" vertex="1">
+          <mxGeometry x="90" y="145" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kKbpVROnD0z5z-v4G7TG-5" value="Xóa&lt;br&gt;tài khoản NVQL" style="ellipse;whiteSpace=wrap;html=1;" parent="kKbpVROnD0z5z-v4G7TG-1" vertex="1">
           <mxGeometry x="300" y="400" width="140" height="70" as="geometry" />
