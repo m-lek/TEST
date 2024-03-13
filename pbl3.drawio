@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:42:25.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="b4trWEPC8sChDnLZN8ry" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:48:12.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="1fTH8Z3g8F6nNSh9YHzl" version="24.0.5" type="github" pages="9">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="1711" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -450,7 +450,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BJi0dOUraSn688Yki9ww" name="4. PR Quản lý sách">
-    <mxGraphModel dx="1483" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1711" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -554,12 +554,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6tT5W5dWCCwECCKHmrsS" name="5. PR Quản lý đơn hàng">
-    <mxGraphModel dx="2224" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1711" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí đơn hàng&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="680" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="cXT_N_HbqvrjAgPFSjif-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jvfzSwQXrmkZsnoeaDwf-2" target="jvfzSwQXrmkZsnoeaDwf-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jvfzSwQXrmkZsnoeaDwf-2" value="NVQL" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="29" y="621.5" width="30" height="60" as="geometry" />
@@ -591,7 +594,7 @@
         <mxCell id="plui-1BGY3VuICrDOusG-2" value="Hủy đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="344" y="181" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="plui-1BGY3VuICrDOusG-3" value="KH" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="plui-1BGY3VuICrDOusG-3" value="Khách hàng" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="29" y="270.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="plui-1BGY3VuICrDOusG-5" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jvfzSwQXrmkZsnoeaDwf-7" target="jvfzSwQXrmkZsnoeaDwf-2" edge="1">
