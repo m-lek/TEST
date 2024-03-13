@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:36:42.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="-3P0jI3R3lmQ43hamtSA" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:41:35.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="MxbhgoEHqk-JuDilY91y" version="24.0.5" type="github" pages="9">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
     <mxGraphModel dx="1711" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h14ySMBIpZ8P7FUBDOcr" name="2.PR Quản lý giỏ hàng">
-    <mxGraphModel dx="1112" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,7 +450,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BJi0dOUraSn688Yki9ww" name="4. PR Quản lý sách">
-    <mxGraphModel dx="1308" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="517" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,7 +499,7 @@
             <mxPoint x="570" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v0o0xGq8nBqNKK5GDADz-1" value="KH" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="v0o0xGq8nBqNKK5GDADz-1" value="Khách hàng" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="60" y="255" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v0o0xGq8nBqNKK5GDADz-2" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="v0o0xGq8nBqNKK5GDADz-1" target="R3z9S4FRo9-Uq1dqK_ZA-1" edge="1">
