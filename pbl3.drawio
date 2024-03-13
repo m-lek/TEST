@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:30:12.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="p2l-ctgNaKyW5zS-3iSf" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:34:03.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="J_eVudjtGVgMzlFDYYfy" version="24.0.5" type="github" pages="9">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
-    <mxGraphModel dx="1390" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1711" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,7 +188,7 @@
         <mxCell id="S4_g3_fuYbVfLB-i2p0f-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí giỏ hàng&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;spacingTop=-28;" parent="1" vertex="1">
           <mxGeometry x="178" y="110" width="530" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="S4_g3_fuYbVfLB-i2p0f-2" value="KH" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="S4_g3_fuYbVfLB-i2p0f-2" value="Khách hàng" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="118" y="300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TEpoZ4H86gnOeeVFCiMP-1" value="Xem giỏ hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -231,29 +231,29 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nya3glI3eG39C7vfRIj3" name="3.Quản lí tài khoản">
-    <mxGraphModel dx="1853" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z1TTJWBlDeIg8dNZD0U3-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí tài khoản&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;spacingTop=-20;" parent="1" vertex="1">
+        <mxCell id="Z1TTJWBlDeIg8dNZD0U3-1" value="&lt;p style=&quot;line-height: 120%; font-size: 29px;&quot;&gt;Quản lí tài khoản người dùng&lt;/p&gt;" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;spacingTop=-20;" parent="1" vertex="1">
           <mxGeometry x="160" y="49" width="430" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="Z1TTJWBlDeIg8dNZD0U3-2" value="KH" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="Z1TTJWBlDeIg8dNZD0U3-2" value="Khách hàng" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="85" y="115" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z1TTJWBlDeIg8dNZD0U3-5" value="Cập nhật thông tin cá nhân" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="304" y="282" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Z1TTJWBlDeIg8dNZD0U3-9" value="NVQL" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="Z1TTJWBlDeIg8dNZD0U3-9" value="Nhân viên quản lý" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="630" y="287" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpYbXIrP79f_heJija39-1" value="ADMIN" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="EpYbXIrP79f_heJija39-1" value="Quản trị viên" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="85" y="373" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LKhXzZUF2jTmWH8zSPPv-3" value="Thống&lt;br/&gt;kê tài khoản của tất cả user" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LKhXzZUF2jTmWH8zSPPv-3" value="Thống&lt;br&gt;kê tài khoản của tất cả người dùng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="304" y="454" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sKqIk2zLnGV0IwQfoTPa-1" value="&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;Quản lí tài khoản KH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sKqIk2zLnGV0IwQfoTPa-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Quản lí tài khoản&lt;/font&gt;&lt;div&gt;khách hàng&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="304" y="368" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sKqIk2zLnGV0IwQfoTPa-3" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z1TTJWBlDeIg8dNZD0U3-2" target="Z1TTJWBlDeIg8dNZD0U3-4" edge="1">
@@ -322,7 +322,7 @@
         <mxCell id="Z1TTJWBlDeIg8dNZD0U3-4" value="Đổi mật khẩu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="194" width="140" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Reb-q3CkU3MzvrNFJ1Ul-2" value="Quản lí tài khoản NVQL" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Reb-q3CkU3MzvrNFJ1Ul-2" value="Quản lí tài khoản&amp;nbsp;&lt;div&gt;Nhân viên quản lý&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="304" y="540" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Reb-q3CkU3MzvrNFJ1Ul-3" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="EpYbXIrP79f_heJija39-1" target="sKqIk2zLnGV0IwQfoTPa-1" edge="1">
