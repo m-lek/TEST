@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T00:56:17.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dSjzJLUJGSsXfZyYC0DT" version="24.0.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-14T06:38:45.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="TS2nyLUsse4vGbD4SLLe" version="24.0.6" type="github" pages="10">
   <diagram id="T3AG9Gq-OQvNrAsNlIJI" name="General use-case">
-    <mxGraphModel dx="954" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
             <mxPoint x="362" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="33EpsyFU4kMMq8XoWok7-3" value="Quản lý đánh giá sản phẩm" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="33EpsyFU4kMMq8XoWok7-3" value="Quản lý&lt;div&gt;đánh giá sản phẩm&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="343" y="359" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="33EpsyFU4kMMq8XoWok7-4" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JvKZOloK4EmOi9SF0FHK-2" target="33EpsyFU4kMMq8XoWok7-3" edge="1">
